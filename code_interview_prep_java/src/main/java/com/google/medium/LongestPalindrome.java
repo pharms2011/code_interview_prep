@@ -32,6 +32,10 @@ public class LongestPalindrome {
         return true;
     }
 
+    /*
+        Runtime:    4 ms
+        Memory:     45.9 MB
+    * */
     public static String longPal(String str){
         String longestPal = "";
         // pick through each char, start at 1

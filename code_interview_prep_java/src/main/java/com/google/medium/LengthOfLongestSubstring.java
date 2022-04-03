@@ -4,6 +4,11 @@ package com.google.medium;
 
 public class LengthOfLongestSubstring {
     //Given a string s, find the length of the longest substring without repeating characters.
+
+    /*
+        Runtime:        15 ms
+        Memory Usage:   47.6 MB
+    * */
     public static int lengthOfLongestSubstring(String s) {
         int longestSubLen = 0;
         int windowStart = 0;

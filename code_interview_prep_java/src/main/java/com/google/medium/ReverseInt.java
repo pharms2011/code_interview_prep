@@ -9,7 +9,7 @@ public class ReverseInt {
         Runtime: 1 ms, faster than 98.81% of Java online submissions for Reverse Integer.
         Memory Usage: 39.3 MB, less than 93.92% of Java online submissions for Reverse Integer.
     * */
-    
+
     public static int reverse(int x) {
         int result = 0;
         long resultLong = 0;
