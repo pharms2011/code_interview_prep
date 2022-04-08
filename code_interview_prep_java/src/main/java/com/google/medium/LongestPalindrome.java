@@ -1,6 +1,20 @@
 package com.google.medium;
 
 public class LongestPalindrome {
+
+    public static String simpleLargestPalin(String s){
+        String result = "";
+        for(int i =0; i<s.length(); i++){
+            // treat this char as the center of the longest palindrom
+            String center = s.charAt(i)+"";
+            int l = i-1;
+            int r = i +1;
+            while(s.charAt(r) == s.charAt(i)){
+                
+            }
+        }
+        return result;
+    }
     // Given a string s, return the longest palindromic substring in s.
     public static String longestPalindrome(String s) {
         String longestPal = "";
