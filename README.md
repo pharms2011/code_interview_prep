@@ -1,11 +1,17 @@
 # code_interview_prep
 
 <h3>04-22-22 Google Interview Prep</h3>
-<p>||||||||||||||||||||||</p>
-<h1>22</h1>
+<h1>Days Remaining!!!!!</h1>
+<p>||||||||||||||||||||||||||</p>
+<h1>26</h1>
 <p>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</p>
 <h1>100</h1>
-
+<h4>04-08-22</h4>
+<ol>
+<li>Heap/Priority Queue - Kth Largest</li>
+<li>missingElement - Pointer Manipulation</li>
+<li>missingElement - Binary Search</li>
+</ol>
 <h2>key_concepts</h2>
 
 1. log() 

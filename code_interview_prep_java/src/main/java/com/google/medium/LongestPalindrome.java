@@ -10,7 +10,7 @@ public class LongestPalindrome {
             int l = i-1;
             int r = i +1;
             while(s.charAt(r) == s.charAt(i)){
-                
+
             }
         }
         return result;
